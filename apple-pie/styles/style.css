@@ -1,0 +1,20 @@
+.header {
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    display: flex;
+    background-color: brown;
+}
+
+.heroimage  {
+    text-align: center;
+    align-content: center;
+    align-items: center;
+   
+    
+}
+
+.herotest {
+    align-items: center;
+    justify-content: center;
+}
